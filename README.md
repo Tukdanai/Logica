@@ -1,1 +1,1 @@
-Here is the URL to play the game: https://logica-1f1fc.web.app/
+Here is the URL to play the game (only support full screen): https://logica-1f1fc.web.app/
